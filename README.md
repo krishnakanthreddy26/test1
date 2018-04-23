@@ -1,2 +1,2 @@
 # test1
-testing repository
+used for testing
